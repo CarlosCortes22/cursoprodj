@@ -1,1 +1,6 @@
 Desde la PC
+
+
+mis cambios en el mismo archivo desde el local
+
+
