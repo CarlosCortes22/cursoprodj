@@ -1,6 +1,6 @@
 Desde la PC
 
-
 mis cambios en el mismo archivo desde el local
 
+cambios que se esta realiando editanto el mismo archivo
 
